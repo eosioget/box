@@ -11,7 +11,7 @@ BOX is the second product launched by EOSGET platform, which is a D&D style red 
 The BOX prize-opening pipeline is calculated on the basis of the next `block_id'of the time when the treasure box was finally seized.
 
 ### An example of a case
-The last time to grab the treasure box (5 persons) is `time', and the next `block_id'of `time > time', assuming that `block_id' is:
+The last time to grab the treasure box (5 persons) is `time`, and the next `block_id` of `time > time`, assuming that `block_id` is:
 ![](block_id.png)
 
 Take the last 10 digits and take out 5 digits `25 45 98 86 58` for each two digits in a group.
